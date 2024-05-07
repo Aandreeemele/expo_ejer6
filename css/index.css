@@ -5,8 +5,3 @@ body{
     grid-template-columns: 30rem 1fr;
     grid-row: 8rem 1rf 15rem;
 }
-.inicio{
-    grid-column: 1/2;
-    grid-row: 1/4;
-    background-color: red;
-}
