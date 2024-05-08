@@ -1,13 +1,48 @@
-body{
-    width: 136rem;
-    height: 90rem;
-    margin: auto;
+
+.estruc{
+    width: 140rem;
+    height: 90em;
     border: 1px solid black;
+    border-radius: 2rem;
+    margin: auto;
 
     display: grid;
-    grid-template-columns: 30rem 1fr 1fr;
-    grid-row: 50rem 1fr  15 rem 1fr;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(6, 190px);
 }
 .inicio{
+    width: 140rem;
+    height: 12rem;
+    border-radius: 2rem;
+    border: 1px solid black;
 
+    grid-row: 1/2;
+    grid-column: 1/4;
+}
+.lado_lateral{
+    width: 40rem;
+    height: 62.3rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    gap: 100px;
+
+    grid-column: 1/2;
+    grid-row: 2/9;
+}
+.info{
+    width: 90rem;
+    height: 62.3rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+
+    grid-row: 2/7;
+}
+.final{
+    width: 140rem;
+    height: 12rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+
+    grid-column: -1/-4;
+    grid-row: 8/9;
 }
