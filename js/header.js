@@ -1,6 +1,6 @@
 let div_lado_lateral = document.querySelector("lado_lateral");
 
-div_lado_lateral.innerHTML='
+div_lado_lateral.innerHTML=´
 <ul class="nav">
     <li>CPU</li>
     <li>Gpu</li>
@@ -10,4 +10,4 @@ div_lado_lateral.innerHTML='
     <li>TARJETA MADRE </li>
 
 </ul>
-';
+´;
