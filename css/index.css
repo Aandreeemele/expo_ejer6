@@ -1,7 +1,13 @@
 body{
+    width: 136rem;
+    height: 90rem;
     margin: auto;
-    max-width: 136rem;
+    border: 1px solid black;
+
     display: grid;
-    grid-template-columns: 30rem 1fr;
-    grid-row: 8rem 1rf 15rem;
+    grid-template-columns: 30rem 1fr 1fr;
+    grid-row: 50rem 1fr  15 rem 1fr;
+}
+.inicio{
+
 }
