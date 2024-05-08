@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+=======
+body{
+    margin: auto;
+    max-width: 136rem;
+    display: grid;
+    grid-template-columns: 30rem 1fr;
+    grid-template-rows: 8rem 1fr 15rem;
+}
+>>>>>>> 38e39a612d08e1300d38eb4672938fcb3fe672c2
