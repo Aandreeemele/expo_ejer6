@@ -1,48 +1,53 @@
 
 .estruc{
-    width: 140rem;
-    height: 90em;
-    border: 1px solid black;
-    border-radius: 2rem;
+    width: 45rem;
+    height: 35.5rem;
     margin: auto;
 
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(6, 190px);
+    grid-template-columns: repeat(4, 180px);
+    grid-template-rows: repeat(6, 94.2px);
 }
 .inicio{
-    width: 140rem;
-    height: 12rem;
-    border-radius: 2rem;
+    width: 45rem;
+    height: 5.5rem;
+    border-radius: 1rem;
     border: 1px solid black;
 
     grid-row: 1/2;
     grid-column: 1/4;
+    background-color: rgb(222, 250, 240);
 }
 .lado_lateral{
-    width: 40rem;
-    height: 62.3rem;
+    width:  11rem;
+    height: 22.5rem;
     border: 1px solid black;
     border-radius: 1rem;
     gap: 100px;
+    background-color: rgb(222, 250, 240);
 
     grid-column: 1/2;
     grid-row: 2/9;
 }
 .info{
-    width: 90rem;
-    height: 62.3rem;
+    width: 33.5rem;
+    height: 22.5rem;
     border-radius: 1rem;
     border: 1px solid black;
-
+    background-color: rgb(222, 250, 240);
+    
+    grid-column: 2/5;
     grid-row: 2/7;
 }
 .final{
-    width: 140rem;
-    height: 12rem;
-    border-radius: 2rem;
+    width: 45rem;
+    height: 6.5rem;
+    border-radius: 1rem;
     border: 1px solid black;
 
-    grid-column: -1/-4;
-    grid-row: 8/9;
+    grid-column: -1/-9;
+    grid-row: 6/7;
+    background-color: rgb(222, 250, 240);
+      
+      
 }
