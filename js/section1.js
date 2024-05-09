@@ -19,5 +19,5 @@ santi_Emilio.innerHTML=`
     6.Consumo energético <br> <br>
 </p>
 
-<img src="https://img.freepik.com/fotos-premium/cpu-de-computador-de-jogador-robusto-e-futurista-com-conceito-de-jogo-de-luzes-de-neon-rgb-generative-ai_803320-16364.jpg" alt="">
+<img src="https://img.freepik.com/fotos-premium/cpu-de-computador-de-jogador-robusto-e-futurista-com-conceito-de-jogo-de-luzes-de-neon-rgb-generative-ai_803320-16364.jpg" alt="" class="ig5">
 `;
