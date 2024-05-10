@@ -1,1 +1,49 @@
-.
+.barra{
+    display: grid;
+    grid-template-columns: repeat(8, 90px);
+    grid-template-rows: repeat(3, 30px);
+}
+.s1{
+    font-size: 1rem;
+    grid-column: 2/2;
+    grid-row: 2/3;
+}
+.s2{
+    font-size: 1rem;
+    grid-column: 3/3;
+    grid-row: 2/3;
+}
+.s3{
+    font-size: 1rem;
+    grid-column: 4/4;
+    grid-row: 2/3;
+}
+.s4{
+    font-size: 1rem;
+    grid-column: 5/5;
+    grid-row: 2/3;
+}
+.sh{
+    width: 5rem;
+    height: 2rem;
+    border: 1px solid black;
+    border-radius:1rem;
+
+    grid-column: 6/7;
+    grid-row: 2/3;
+
+    font-size:1rem;
+    align-items :center;
+
+}
+
+
+.js1{
+     width:10px;
+     height: 10px;
+     grid-column:9/10;
+     grid-row: 1/3;
+
+
+}
+
