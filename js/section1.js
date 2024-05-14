@@ -1,10 +1,10 @@
-let santi_Emilio=document.querySelector(".info");
+let andre_mlxz=document.querySelector(".info");
 
-santi_Emilio.innerHTML=`
+andre_mlxz.innerHTML=`
 
 <p class="titulo"> CPU</p>
 
-<p class="in">realiza operaciones aritméticas, lógicas, de entrada y salida,<br> y controla la ejecución de programas. Está compuesta <br> por varios componentes, incluyendo la Unidad <br> de Control (que interpreta y ejecuta instrucciones), <br> la Unidad Aritmético-Lógica (que realiza cálculos y <br> operaciones lógicas), y la Memoria Caché <br> (que almacena datos e instrucciones temporales <br> para acceder a ellos rápidamente).</p>
+<p class="in">realiza operaciones aritméticas, lógicas, de entrada y salida, y controla la ejecución de programas. Está compuesta  por varios componentes, incluyendo la Unidad  de Control (que interpreta y ejecuta instrucciones),  la Unidad Aritmético-Lógica (que realiza cálculos y  operaciones lógicas), y la Memoria Caché  (que almacena datos e instrucciones temporales  para acceder a ellos rápidamente).</p>
 
 <p class="titulo2">Caracteristicas: </p>
 

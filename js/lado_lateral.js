@@ -1,12 +1,13 @@
-let jose_saquiq = document.querySelector(".lado_lateral");
+let andre_ml = document.querySelector(".lado_lateral");
 
-jose_saquiq.innerHTML=`
+andre_ml.innerHTML=`
  <ul class="z1">
-    <li>CPU</li>  <br><br>
+    <li>INDEX</li>  <br><br>
     <li>GPU</li> <br><br>
-    <li>DISCO HDD</li> <br><br>
-    <li>UNIDAD SSD</li><br><br>
+    <li>DISCO</li> <br><br>
+    <li>FUENTE</li><br><br>
+    <li>GPU</li><br><br>
     <li>RAM</li><br><br>
-    <li>TARJETA MADRE</li><br><br>
+    <li>TARJETA</li><br><br>
  </ul>
 `;
