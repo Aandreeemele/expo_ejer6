@@ -3,7 +3,7 @@ div_header.innerHTML =`
     
 <header class="barra">
     <header class="s1">CPU↷</header>
-    <header class="s2"><a>GPU↷</a></header>
+    <header class="s2"><a href="/index2.html"><button>GPU↷</button></a></header>
     <header class="s3">MB↷</header>
     <header class="s4">RAM↷</header>
     <header class="sh">
