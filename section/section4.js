@@ -10,14 +10,14 @@ santi_Emilio.innerHTML=`
 <p class="titulo2">Caracteristicas: </p>
 
 <p class="d1">
-    1.Arquitectura <br> <br>
-    2.Frecuencia de reloj <br> <br>
-    3.Número de núcleos <br> <br>
+    1.Capacidad<br> <br>
+    2.Tipo de memoria <br> <br>
+    3.Velocidad de la memoria <br> <br>
 </p>
 <p class="d2">
-    4.Caché <br> <br>
-    5.Tecnología de fabricación <br> <br>
-    6.Consumo energético <br> <br>
+    4.Latencia <br> <br>
+    5.Configuración de canales <br> <br>
+    6.ECC (Código de Corrección de Errores <br> <br>
 </p>
 
 <img src="https://www.shutterstock.com/image-photo/installation-ram-on-computer-260nw-182981177.jpg" alt="" class="ig5">
