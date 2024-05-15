@@ -2,9 +2,9 @@ let santi_Emilio=document.querySelector(".info");
 
 santi_Emilio.innerHTML=`
 
-<p class="titulo"> MB</p>
+<p class="titulo"> TARJETA</p>
 
-<p class="in">realiza operaciones aritméticas, lógicas, de entrada y salida, y controla la ejecución de programas. Está compuesta  por varios componentes, incluyendo la Unidad  de Control (que interpreta y ejecuta instrucciones),  la Unidad Aritmético-Lógica (que realiza cálculos y  operaciones lógicas), y la Memoria Caché  (que almacena datos e instrucciones temporales  para acceder a ellos rápidamente).</p>
+<p class="in">Dependiendo del contexto, "tarjeta" puede referirse a diferentes componentes de hardware de una computadora. Por ejemplo, "tarjeta de red" se refiere a una tarjeta que permite a una computadora conectarse a una red, "tarjeta de sonido" se refiere a una tarjeta que procesa audio, etc. Sin un contexto más específico, no puedo proporcionar una definición precisa..</p>
 
 <p class="titulo2">Caracteristicas: </p>
 

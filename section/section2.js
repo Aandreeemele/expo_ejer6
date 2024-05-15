@@ -4,7 +4,7 @@ andre2.innerHTML=`
 
 <p class="titulo"> GPU</p>
 
-<p class="in">realiza operaciones aritméticas, lógicas, de entrada y salida, y controla la ejecución de programas. Está compuesta  por varios componentes, incluyendo la Unidad  de Control (que interpreta y ejecuta instrucciones),  la Unidad Aritmético-Lógica (que realiza cálculos y  operaciones lógicas), y la Memoria Caché  (que almacena datos e instrucciones temporales  para acceder a ellos rápidamente).</p>
+<p class="in">La Unidad de Procesamiento Gráfico (GPU) es un procesador especializado que se encarga de procesar y renderizar gráficos en una computadora. Es especialmente importante para aplicaciones que requieren representaciones visuales intensivas, como juegos, diseño 3D y edición de video..</p>
 
 <p class="titulo2">Caracteristicas: </p>
 

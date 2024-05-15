@@ -4,7 +4,7 @@ div_header.innerHTML =`
 <header class="barra">
     <header class="s1">CPU↷</header>
     <header class="s2"><a>GPU↷</a></header>
-    <header class="s3"><a href="/index3.html"><button>MB↷</button></a></header>
+    <header class="s3"><a href="/index3.html"><button>TARJETA↷</button></a></header>
     <header class="s4">RAM↷</header>
     <header class="sh">
         <p class="sea">Computacion@scl.gt</p>

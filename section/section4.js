@@ -4,7 +4,8 @@ santi_Emilio.innerHTML=`
 
 <p class="titulo"> RAM</p>
 
-<p class="in">realiza operaciones aritméticas, lógicas, de entrada y salida, y controla la ejecución de programas. Está compuesta  por varios componentes, incluyendo la Unidad  de Control (que interpreta y ejecuta instrucciones),  la Unidad Aritmético-Lógica (que realiza cálculos y  operaciones lógicas), y la Memoria Caché  (que almacena datos e instrucciones temporales  para acceder a ellos rápidamente).</p>
+<p class="in">La Memoria de Acceso Aleatorio (RAM) es un tipo de memoria volátil que se utiliza para almacenar temporalmente datos y programas que están en uso activo en un sistema informático. Es mucho más rápida que el almacenamiento de disco, pero los datos se pierden cuando se apaga la computadora.
+</p>
 
 <p class="titulo2">Caracteristicas: </p>
 
