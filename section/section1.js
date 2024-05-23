@@ -1,6 +1,6 @@
-let santi_Emilio=document.querySelector(".info");
+let andre_mlxz=document.querySelector(".info");
 
-santi_Emilio.innerHTML=`
+andre_mlxz.innerHTML=`
 
 <p class="titulo"> CPU</p>
 
